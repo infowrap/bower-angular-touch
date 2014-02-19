@@ -1,6 +1,6 @@
 {
   "name": "angular-touch",
-  "version": "infowrap1.2.14",
+  "version": "infowrap1.2.14-test1",
   "main": "./angular-touch.js",
   "dependencies": {
     "angular": "~1.2.*-build"
